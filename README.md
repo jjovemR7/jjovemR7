@@ -39,7 +39,7 @@ Repositório educativo com informações sobre artes marciais, suas histórias, 
 ## 🌐 Contato
 
 - 📧 Email: ronibrawlstarsgameplay@gmail.com  
-- 🔗 LinkedIn: [SeuNome](https://www.linkedin.com/in/seunome)  
+- 🔗 LinkedIn: [Ronyt](https://www.linkedin.com/in/seunome)  
 - 🐦 Instagram: [@jjovem_r7)
 
 ---
