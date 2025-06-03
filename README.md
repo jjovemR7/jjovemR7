@@ -29,7 +29,7 @@ Repositório educativo com informações sobre artes marciais, suas histórias, 
 
 ## 👤 Sobre Mim
 
-- 🥋 Faixa preta em **[sua arte marcial aqui]**
+- 🥋 Faixa Verde Listra Preta em **Jiu_Jitsu**
 - 🧠 Desenvolvedor(a) com foco em dados e esportes
 - 🎯 Entusiasta da disciplina, estratégia e ciência por trás da luta
 - 🔬 Explorador de tecnologias aplicadas ao desempenho esportivo
@@ -38,9 +38,9 @@ Repositório educativo com informações sobre artes marciais, suas histórias, 
 
 ## 🌐 Contato
 
-- 📧 Email: seuemail@exemplo.com  
+- 📧 Email: ronibrawlstarsgameplay@gmail.com  
 - 🔗 LinkedIn: [SeuNome](https://www.linkedin.com/in/seunome)  
-- 🐦 Twitter: [@seuusuario](https://twitter.com/seuusuario)
+- 🐦 Instagram: [@jjovem_r7)
 
 ---
 
