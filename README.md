@@ -1,7 +1,8 @@
 # 🥋 Bem-vindo(a) ao meu GitHub sobre Luta
 
 Sou apaixonado por **artes marciais**, **esportes de combate** e **tecnologia**. Neste espaço, combino o mundo da luta com a programação, ciência de dados e inteligência artificial. Aqui você encontrará projetos que exploram desde estatísticas de lutas até simulações e estratégias baseadas em algoritmos.
-![image](https://github.com/user-attachments/assets/c5bf114e-b2b0-4c1d-8e8a-2dd4c651fb1d)
+![image](https://github.com/user-attachments/assets/d8fa874a-152b-4f2e-a14f-6a8733396fb4)
+
 
 ---
 
